@@ -5,3 +5,5 @@ STAN
 
 Short-Term Attack Network
 via Cynthia, Curtis and Stephen, respectfully.
+
+RedTeam Boxo- http://bit.ly/RedHunt-OS-v2
