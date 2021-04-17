@@ -1,8 +1,8 @@
 Scenario 1.0
 
 -Find a way to "talk" with the Kenny box!
-    *hint* I believe somethingzz may be open? I heard Kenny also got a new mailbox
-    Can Successfully talk with Kenny (possibly) = 1 Flag
+    *hint* I believe somethingzzz may be open? I heard Kenny also got a new mailbox...
+    Can Successfully talk with Kenny? (possibly) = 1 Flag
 
 Scenario 1.1
 
@@ -13,24 +13,24 @@ Scenario 1.1
 Scenario 1.2
 
 -Let's get a bit more "Active"!
-    *hint* you know you can talk to kenny and you have an idea of your toolset. Maybe we should poke a bit and see if they see us?
+    *hint* You know you can talk to Kenny AND you have an idea of your toolset. Maybe we should poke around a bit to see if they can see us?
     Successful recon (undetected or detectable) = 1 Flag
     
 Scenario 1.3
 
--It's about time we drop our first assault!
-    *hint* If this was mario kart I'd like the blue turtle shell plz
-    Successful Payload, Shell, or file transfer = 1 Flag
+-It's about time we execute our first assault!
+    *hint* If this was Mario Kart, I'd like the blue turtle shell plz
+    Successful Payload, Shell or file transfer = 1 Flag
     
 Scenario 1.4
 
--Lets snag the password!
-    *hint* I heard Kenny wasn't too bright about this one. Pretty simlpe honestly
+-Let's snag the password!
+    *hint* I heard Kenny wasn't too bright about this one. Pretty simlpe honestly...
     Successfully obtained password = 1 Flag
     
 Scenario 1.5
 
--lets go for it: Time to get root!
+-Let's go for it: Time to get root!
     *hint* I am groot?
     Successfully found root = 1 Flag
     
