@@ -1,0 +1,41 @@
+Scenario 1.0
+
+-Let's Check on Kenny!
+    *hint* anything missing? Is Everything normal?
+    successfully checked out Kenny (talked) = 1 Flag
+    
+Scenario 1.1
+
+-I'm not sure if Kenny is okay. Let's beef up our defenses!
+    *hint*  Kirk: " divert more power to the ship's shields" Scotty: "I'm Givin' Her All She's Got, Captain!"
+    successfully "beef-up" Kenny's defenses = 1 Flag
+    
+Scenario 1.2
+
+-It's quite..too quite! Let's check the logs!
+    *hint* https://www.youtube.com/watch?v=-fQGPZTECYs
+    successfully checked Kenny's Logs = 1 Flag
+    
+Scenario 1.3
+
+-Someone wants Kenny! We gotaa find out who!
+    *hint* if you didn't know..well now you do! better not be splunk-driving!
+    successfully "beef-up" kenny's defenses or Splunk usage = 1 Flag
+    
+Scenario 1.4
+
+-Is there something they can access? We better check!
+    *hint* What's our Response? Simple: Don't Panic
+    successfully create or use Response techniques = 1 Flag
+    
+ Scenario 1.5
+ 
+ -I think they want to kill Kenny! Stop'em!
+    *hint* Can we recover and save Kenny?
+    attempted to save/recover from incident = 1 Flag
+    
+ Scenario 1.6
+ 
+ -RIP Kenny or Kenny's Alive!?
+    *hint* " Now this is more like it, Parker!! Exclusive pictures of the Chameleon! No one even knew he was back in this country! You deserve a big bonus for this! Miss Brant-            open the safe and give Parker one of my own personal bars of milk chocolate!"
+    successful postmortem (whatever the outcome) = 1 Flag
