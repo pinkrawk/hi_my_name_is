@@ -1,0 +1,7 @@
+Caldera script-
+
+The Dre box is our blue team box. The Dre box comes equipped with some familiar tools such as wireshark
+to sort through traffic to find potential suspicious acitivty in the network. It also comes with a new tool
+called "Caldera". Caldera is a sandbox framework that can be customized and used to simulate offensive and defensive attacks. 
+This can be a valuable training tool, or be used to test defenses of a system. *Open Caldera and shoe the different options
+for both red and blue team. 
