@@ -1,0 +1,28 @@
+                              Kenny Box
+
+-The Kenny Box acts as the median target for both sides and is the main machine for team on team interaction.
+-By following scenarios and purposely opening ports during engagements the Kenny box can act as a "real life" counter-part to what we face from a adversarial and 
+  friendly point of view.
+-To help illustrate this more, Kenny comes equipped with a program called GHOSTS.
+-GHOSTS is a framework built by Carnegie Mellon University for the purpose of NPC automation on a live network.
+-With this automation network traffic is simulated through a multitude of python scripts to give realistic training of what people might do on the networks we are defending 
+  (from creating documents, access systems, browsing the web, running commands, etc).
+
+
+                              Intro
+                              
+-Hello, viewers! My name is Curtis Spearman and I would like to formally introduce you to our 2010-cohort project-STAN
+  (created by Cynthia Davis, Stephen Reyes, and myself).
+-What is STAN? STAN stands for: SHORT-TERM-ATTACK-NETWORK
+-It is a wargame/training environment created for practical network compromising and defending.
+-This purple-team style environment allows for two sides to act out a specified goal and generate a simulated response to 
+  prepare cyber-professionals for the incidents they will face.
+-Whether your pentesting email servers, unleashing RATs, or mock responses to cyber-incidents, STAN allows for this training to take place in a controlled sandbox 
+  with the trainers determining the ride.
+-So how does it work?
+-STAN can be broken in three components:
+  A Red-Team focused Kali VM named STAN, Can Be Made Vulnerable Kali VM named Kenny, and a Blue-Team focused Kali Vm named Dre
+-These three components act as the centerpiece of any scenario or live engagements that can take place.
+-Each box also comes equipped with a unique feature to help individualize and improve user experience for additional learning.
+-This makes it so that group training, as well as single person training, can access any box and have all learning tools available for use.
+-This is accomplished through the use of two very important tools: CALDERA and GHOSTS.
